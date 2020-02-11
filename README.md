@@ -1,2 +1,2 @@
 # LeetCode_Algorithm
-LeetCode 算法
+LeetCode 刷题
